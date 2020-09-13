@@ -21,7 +21,7 @@
 
 <br>
 <div class=positon>
-<code><a href="https://github.com/comet-602/github-readme-stats"><img height="140" src="https://github-readme-stats.vercel.app/api?username=comet-602"></a> &nbsp; <a href="https://github.com/comet-602/github-readme-stats"><img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comet-602&layout=compact"></a></code>
+<code><a href="https://github.com/FC1009/github-readme-stats"><img height="140" src="https://github-readme-stats.vercel.app/api?username=FC1009"></a> &nbsp; <a href="https://github.com/FC1009/github-readme-stats"><img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FC1009&layout=compact"></a></code>
  <img  src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="140"/>
 </div>
 <br>
@@ -30,77 +30,6 @@
 -------
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-230-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 184 Contributions in the Year 2020
- > 
-> 📦 95.7 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 28 Public Repositories
- > 
-> 🔑 2 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.84% 
-🌆 Daytime    50 commits     █████████░░░░░░░░░░░░░░░░   39.06% 
-🌃 Evening    30 commits     █████░░░░░░░░░░░░░░░░░░░░   23.44% 
-🌙 Night      29 commits     █████░░░░░░░░░░░░░░░░░░░░   22.66%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.16% 
-Tuesday      7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.47% 
-Wednesday    21 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.41% 
-Thursday     69 commits     █████████████░░░░░░░░░░░░   53.91% 
-Friday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.03% 
-Saturday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34% 
-Sunday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.69%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   12 repos            ███████████████░░░░░░░░░░   60.0% 
-Jupyter Notebook         5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-TSQL                     1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/comet-602/comet-602/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
