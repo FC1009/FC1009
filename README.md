@@ -21,7 +21,8 @@
 
 <br>
 <div class=positon>
-<code><a href="https://github.com/FC1009/github-readme-stats"><img height="140" src="https://github-readme-stats.vercel.app/api?username=FC1009"></a> &nbsp; <a href="https://github.com/FC1009/github-readme-stats"><img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FC1009&layout=compact"></a></code>
+<code><a href="https://github.com/FC1009/github-readme-stats"><img height="140" src="https://github-readme-stats.vercel.app/api?username=FC1009"></a> &nbsp; <a href="https://github.com/FC1009/github-readme-stats"><img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FC1009&layout=compact"></a>
+</code>
  <img  src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="140"/>
 </div>
 <br>
