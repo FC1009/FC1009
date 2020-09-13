@@ -32,6 +32,33 @@
 -------
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 15 Contributions in the Year 2020
+ > 
+> 📦 904 Bytes Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories
+ > 
+> 🔑 3 Private Repositories 
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         1 repos             ████████████░░░░░░░░░░░░░   50.0% 
+Python                   1 repos             ████████████░░░░░░░░░░░░░   50.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/FC1009/FC1009/blob/master/charts/bar_graph.png) 
+
 
 <!--END_SECTION:waka-->
 
