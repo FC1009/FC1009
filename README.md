@@ -44,7 +44,7 @@
  > 
 > 📜 2 Public Repositories
  > 
-> 🔑 3 Private Repositories 
+> 🔑 4 Private Repositories 
 
 **I Mostly Code in Jupyter Notebook** 
 
