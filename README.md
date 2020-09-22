@@ -36,7 +36,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 24 Contributions in the Year 2020
+> 🏆 23 Contributions in the Year 2020
  > 
 > 📦 7.0 kB Used in Github's Storage 
  > 
@@ -44,13 +44,13 @@
  > 
 > 📜 5 Public Repositories
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ██████████████░░░░░░░░░░░   58.33% 
-Jupyter Notebook         5 repos             ██████████░░░░░░░░░░░░░░░   41.67%
+Python                   7 repos             █████████████░░░░░░░░░░░░   53.85% 
+Jupyter Notebook         6 repos             ███████████░░░░░░░░░░░░░░   46.15%
 
 ```
 
