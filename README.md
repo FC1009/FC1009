@@ -42,7 +42,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 3 Public Repositories
+> 📜 4 Public Repositories
  > 
 > 🔑 2 Private Repositories 
 
