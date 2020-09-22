@@ -44,8 +44,8 @@
  > 
 > 📜 5 Public Repositories
  > 
-> 🔑 2 Private Repositories 
-
+> 🔑 1 Private Repository 
+ > 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
