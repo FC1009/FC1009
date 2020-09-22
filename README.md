@@ -42,15 +42,15 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public Repositories
+> 📜 5 Public Repositories
  > 
-> 🔑 2 Private Repositories 
-
+> 🔑 1 Private Repository 
+ > 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         1 repos             ████████████░░░░░░░░░░░░░   50.0% 
-Python                   1 repos             ████████████░░░░░░░░░░░░░   50.0%
+Jupyter Notebook         2 repos             ████████████████░░░░░░░░░   66.67% 
+Python                   1 repos             ████████░░░░░░░░░░░░░░░░░   33.33%
 
 ```
 
