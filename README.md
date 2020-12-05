@@ -42,9 +42,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 6 Public Repositories
+> 📜 6 Public Repositories 
  > 
-> 🔑 17 Private Repositories 
+> 🔑 17 Private Repositories  
 
 **I Mostly Code in Jupyter Notebook** 
 
