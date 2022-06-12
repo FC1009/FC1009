@@ -32,20 +32,21 @@
 -------
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-orange)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**📊 My GitHub data** 
+**🐱 My GitHub Data** 
 
-```text
-🏆 0 contributions in 2022
-
-📦 1.0 MB used in GitHub's storage 
-
-📜 6 Public Repositories 
-
-🔑 17 Private Repositories  
+> 🏆 0 Contributions in the Year 2022
  > 
-**💻 I mostly code in Jupyter Notebook** 
+> 📦 1.0 MB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 17 Private Repositories  
+ > 
+**I Mostly Code in Jupyter Notebook** 
 
 ```text
 Jupyter Notebook         11 repos            █████████████░░░░░░░░░░░░   52.38% 
@@ -62,7 +63,7 @@ R                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/FC1009/FC1009/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 08:00:43 UTC
+ Last Updated on 12/06/2022 08:28:20 UTC
 <!--END_SECTION:waka-->
 
 
